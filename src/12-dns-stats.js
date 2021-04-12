@@ -39,7 +39,6 @@ function getDNSStats(domains) {
   });
 
   return obj;
-  // throw new Error('Not implemented');
 }
 
 module.exports = getDNSStats;
